@@ -80,14 +80,4 @@ public class Usuario {
         System.out.println("Usuário cadastrado com sucesso!");
     }
 
-    static void listar() {
-        for (int i = 0; i < contador; i++) {
-            usuario u = usuarios[i];
-            if (u != null) {
-                System.out.println("ID: " + u.id + ", Nome: " + u.nome + ", Email: " + u.email);
-            }
-              }
-                }
-
-
 }
