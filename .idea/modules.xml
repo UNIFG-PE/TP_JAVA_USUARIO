@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Usuario.iml" filepath="$PROJECT_DIR$/Usuario.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/TP_JAVA_USUARIO-master.iml" filepath="$PROJECT_DIR$/TP_JAVA_USUARIO-master.iml" />
+>>>>>>> 135cd5dbb6169657466ecf75c5f8fd0614b8db0d
     </modules>
   </component>
 </project>
